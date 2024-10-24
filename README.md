@@ -89,4 +89,4 @@ pip install -r [requirements.txt](https://github.com/Iqubal121/Netflix_Movie_rec
 11. Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Iqubal121/Data-Science-Tutorials/blob/e5884fce7cf0cd096214c4d47ceb34c8a7b6ea16/LICIENCE) file for details.
