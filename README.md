@@ -65,7 +65,7 @@ To set up the project locally, follow these steps:
 
 #### Clone the repository:
 
-git clone https://github.com/your-username/netflix-movie-recommendation-engine.git
+git clone [https://github.com/Iqubal121/Netflix_Movie_recommendation_system.git]
 
 #### Navigate to the project directory:
 
@@ -73,7 +73,7 @@ cd netflix-movie-recommendation-engine
 
 ### Install the required libraries:
 
-pip install -r requirements.txt
+pip install -r [requirements.txt](https://github.com/Iqubal121/Netflix_Movie_recommendation_system/blob/04989f06ab29ffbdb94d8f92af90534fe3eafd5c/requirement.txt)
 
 ### Key Features
 1. Personalized movie recommendations based on user preferences.
